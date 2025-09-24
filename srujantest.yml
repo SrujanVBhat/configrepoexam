@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: srujantest
+
+server:
+  port: 9092
